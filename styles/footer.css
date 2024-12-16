@@ -62,7 +62,7 @@ footer {
             transition: transform 300ms linear;
         }
     }
-
+    
     & .social-links {
         
         display: flex;
